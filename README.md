@@ -1,5 +1,5 @@
 - #sobre mim
-- 👋  Olá meu nome @alunarayane
-- Minha conta de estudante é ( rayane.alvesda.silva@escola.pr.gov.br)
-- 💞️ meu interesse é Comida e tecnologia 
-- Eu estou aprendendo a progrmar  rece ...
+- :+1: Olá meu nome @alunarayane
+- : Minha conta de estudante é ( rayane.alvesda.silva@escola.pr.gov.br)
+-  meu interesse é Comida e tecnologia 
+-  Eu estou aprendendo a progrmar recentemente a linguagem de javaScrip e scratch...
